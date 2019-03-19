@@ -6,5 +6,9 @@ public class Baseclass {
 		System.out.println("Created a Baseclass");
 
 	}
+	
+	public void selectDropdown(){
+		System.out.println("Added a method for dropdown");
+	}
 
 }
