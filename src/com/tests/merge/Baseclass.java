@@ -6,4 +6,8 @@ public class Baseclass {
 		System.out.println("Created a Baseclass");
 
 	}
+	
+	public void selectCheckbox(String value){
+		System.out.println("Implemented checkbox method");
+	}
 }
