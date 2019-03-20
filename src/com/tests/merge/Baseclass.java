@@ -9,4 +9,8 @@ public class Baseclass {
 	public void selectDropdown(String value) {
 		System.out.println("Implemented select dropdown method");
 	}
+	
+	public void selectCheckbox(String value){
+		System.out.println("Implemented checkbox method");
+	}
 }
