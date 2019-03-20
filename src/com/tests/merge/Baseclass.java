@@ -6,9 +6,4 @@ public class Baseclass {
 		System.out.println("Created a Baseclass");
 
 	}
-	
-	public void selectCheckBox(){
-		System.out.println("Added method for eckbox");
-	}
-
 }
